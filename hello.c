@@ -5,9 +5,11 @@
 
 #include <stdio.h>
 
-int main()
+int main(void)
 {
     printf("Hello, GitHub!\n");
+    printf("Linux Git Programming LAB\n");
 
     return 0;
 }
+
